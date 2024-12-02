@@ -1,5 +1,5 @@
 # data-preprocessing-assignment
-This Colab notebook provides detailed step-by-step procedure of data pre-processing from data aggregation to data storage. The pre-processing work is for a waste segregation data from intro to ML module summative.
+This Colab notebook provides detailed step-by-step procedure of data pre-processing from data aggregation to data storage. The pre-processing work is for a waste segregation model aimed at improving recycling outcomes and making the environment cleaner. One of the data sources is from intro to ML module summative.
 
 ## Overview
 This notebook entails:
