@@ -23,6 +23,7 @@ This notebook entails:
 
 ## Usage
 
-1. Mount Google Drive (optional for saving results)
-2. Install required dependencies
-3. Load the code snippets to understand and interact with the work
+1. Open the colab notebook
+2. Mount Google Drive (optional for saving results)
+3. Make a copy
+4. Load/run the code snippets to understand and interact with the work
